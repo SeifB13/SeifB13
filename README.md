@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SeifB13 !
+- 👋 Hi, I’m SeifB_ !
 - 👀 I’m interested in programming and video games
 - 🌱 I’m currently learning AWS
 - 💞️ I’m looking to collaborate on ...?
