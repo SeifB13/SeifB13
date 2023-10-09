@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @SeifB13 !
-- 👀 I’m interested in programming and video games :D 
-- 🌱 I’m currently learning ASM & Haskell
+- 👀 I’m interested in programming and video games
+- 🌱 I’m currently learning AWS
 - 💞️ I’m looking to collaborate on ...?
-- 📫 How to reach me ... You don't.
+- 📫 How to reach me ... How ?
 
 <!---
 SeifB13/SeifB13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
