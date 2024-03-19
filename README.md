@@ -9,4 +9,4 @@ SeifB13/SeifB13 is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 
-![SeifB13's GitHub stats](https://github-readme-stats-perso-git-master-seifb-s-projects.vercel.app/api?username=SeifB13&show_icons=true&hide_border=true)
+![SeifB13's GitHub stats](https://github-readme-stats-perso-git-master-seifb-s-projects.vercel.app/api?username=SeifB13&show_icons=true&theme=algolia)
