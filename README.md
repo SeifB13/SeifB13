@@ -23,3 +23,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats-perso-git-master-seifb-s-projects.vercel.app/api?username=seifb13&show_icons=true&theme=nord&locale=fr" alt="seifb13" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=seifb13&theme=nord&locale=fr" alt="seifb13" /></p>
+
+<p>&nbsp;<img align="center" src="https://root-me-diff.vercel.app/rm-gh?nickname=SeifB_&gstats=show&style=dark" alt="root-me SeifB_"></p>
