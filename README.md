@@ -34,7 +34,7 @@
 <h2 align="center"> 📊 Stats 📊 </h2>
 
 <p>
-  <img align="left" width="500" height="710px" src="https://root-me-diff.vercel.app/rm-gh?nickname=SeifB_&gstats=show&style=dark" alt="root-me SeifB_">
+  <img align="left" width="440" height="650px" src="https://root-me-diff.vercel.app/rm-gh?nickname=SeifB_&gstats=show&style=dark" alt="root-me SeifB_">
   <img align="right" width="400" height="250px" src="https://github-readme-stats-perso-git-master-seifb-s-projects.vercel.app/api?username=seifb13&show_icons=true&theme=nord&locale=fr" alt="seifb13" />
   <img align="right" width="400" height="250px" src="https://github-readme-streak-stats.herokuapp.com/?user=seifb13&theme=nord&locale=fr" alt="seifb13" />
   <img align="right" width="400" height="200px" src="https://github-readme-stats-perso-git-master-seifb-s-projects.vercel.app/api/top-langs?username=seifb13&show_icons=true&theme=nord&locale=fr&layout=compact" alt="seifb13" />
