@@ -23,7 +23,7 @@
 <a href="https://www.root-me.org/SeifB_?lang=fr" target="_blank"><img align="center" src="assets/rootme.svg" alt="rootme-seifb_" height="60" width="80" /></a>
 <a href="https://tryhackme.com/p/SeifB" target="_blank"><img align="center" src="assets/tryhackme.svg" alt="tryhackme-seifb_" height="60" width="80" /></a>
 <a href="https://app.hackthebox.com/users/1829055" target="_blank"><img align="center" src="assets/hackthebox.svg" alt="hackthebox-seifb_" height="60" width="80" /></a>
-<a href="https://www.leetcode.com/seifb13" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode-seifb13" height="60" width="80" /></a>
+<a href="https://www.leetcode.com/seifb13" target="_blank"><img align="center" src="assets/leetcode.svg" alt="leetcode-seifb13" height="60" width="80" /></a>
 <a href="https://www.codewars.com/users/SeifB_" target="_blank"><img align="center" src="assets/codewars.svg" alt="codewars-seifb_" height="60" width="80" /></a>
 </p>
 
