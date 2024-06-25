@@ -12,8 +12,8 @@
 
 <h2 align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" height="40" /> Linux distributions I use <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" height="40" /></h2>
 <p align="center">
-<a href="https://www.kali.org/" target="blank"><img align="center" src="assets/kali.svg" alt="kali" height="60" width="80" /></a>
-<a href="https://ubuntu.com/" target="blank"><img align="center" src="assets/ubuntu.svg" alt="ubuntu" height="60" width="80" /></a>
+<a href="https://www.kali.org/" target="_blank"><img align="center" src="assets/kali.svg" alt="kali" height="60" width="80" /></a>
+<a href="https://ubuntu.com/" target="_blank"><img align="center" src="assets/ubuntu.svg" alt="ubuntu" height="60" width="80" /></a>
 <br>
 <a href="https://archlinux.org/" target="_blank"><img src="assets/arch.svg" alt="arch" height="60" width="160" /></a>
 </p>
