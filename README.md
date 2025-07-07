@@ -10,7 +10,7 @@
 - 🎓 **Certifications :** Google Cybersecurity Certificate, AWS Cloud Technology Consultant,AWS Cloud Solutions Architect
 - 🖱️ **Website :** [https://seifb13.github.io/](https://seifb13.github.io/)
 
-<h2 align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" height="40" /> Linux distributions I use <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" height="40" /></h2>
+<h2 align="center">Linux distributions I use</h2>
 <p align="center">
 <a href="https://www.kali.org/" target="_blank"><img align="center" src="assets/kali.svg" alt="kali" height="60" width="80" /></a>
 <a href="https://ubuntu.com/" target="_blank"><img align="center" src="assets/ubuntu.svg" alt="ubuntu" height="60" width="80" /></a>
